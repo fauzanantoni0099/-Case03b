@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\03b\\SalesOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\salesorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\salesorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\entities\\soorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:entities\\soorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\entities\\soitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:entities\\soitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\salesorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\salesorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\entities\\comcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:entities\\comcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\models\\orderexportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:models\\orderexportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\migrations\\20250204070349_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:migrations\\20250204070349_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\interfaces\\iexportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:interfaces\\iexportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\views\\salesorder\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:views\\salesorder\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|d:\\03b\\salesorder\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEEEC63-AF1C-427B-850B-DACEE52CADDF}|SalesOrder.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SalesOrder\\Index.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeToolTip": "Views\\SalesOrder\\Index.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAvwEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:32:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoItem.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Entities\\SoItem.cs",
+              "RelativeDocumentMoniker": "Entities\\SoItem.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Entities\\SoItem.cs",
+              "RelativeToolTip": "Entities\\SoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:24:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoOrder.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Entities\\SoOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SoOrder.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Entities\\SoOrder.cs",
+              "RelativeToolTip": "Entities\\SoOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:22:46.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Data\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\OrderRepository.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Data\\OrderRepository.cs",
+              "RelativeToolTip": "Data\\OrderRepository.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAewMEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:36:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Controllers\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesOrderController.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Controllers\\SalesOrderController.cs",
+              "RelativeToolTip": "Controllers\\SalesOrderController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:36:57.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ItemDto.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "DTOs\\ItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:24:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:02:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SalesOrder\\Edit.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SalesOrder\\Edit.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:38:20.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExportController.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Controllers\\ExportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExportController.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Controllers\\ExportController.cs",
+              "RelativeToolTip": "Controllers\\ExportController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewC8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:16:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:49:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:41:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:34:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:13:51.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComCustomer.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Entities\\ComCustomer.cs",
+              "RelativeDocumentMoniker": "Entities\\ComCustomer.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Entities\\ComCustomer.cs",
+              "RelativeToolTip": "Entities\\ComCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:22:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Models\\PaginatedList.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:38:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderExportModel.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Models\\OrderExportModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderExportModel.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Models\\OrderExportModel.cs",
+              "RelativeToolTip": "Models\\OrderExportModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:38:10.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:38:13.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250204070349_InitialCreate.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Migrations\\20250204070349_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250204070349_InitialCreate.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Migrations\\20250204070349_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250204070349_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:56:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:32:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IExportRepository.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Interfaces\\IExportRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExportRepository.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Interfaces\\IExportRepository.cs",
+              "RelativeToolTip": "Interfaces\\IExportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:24:53.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:51:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:21:40.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:44:35.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:44:35.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:44:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:44:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\SalesOrder\\Add.cshtml",
+              "ToolTip": "D:\\03b\\SalesOrder\\Views\\SalesOrder\\Add.cshtml",
+              "RelativeToolTip": "Views\\SalesOrder\\Add.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T07:13:07.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\03b\\SalesOrder\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T07:02:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\03b\\SalesOrder\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T07:01:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\03b\\SalesOrder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:21:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\03b\\SalesOrder\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\03b\\SalesOrder\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T06:18:54.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
